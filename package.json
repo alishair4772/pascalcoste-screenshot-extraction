@@ -1,0 +1,23 @@
+{
+  "name": "pascalcoste",
+  "version": "1.0.0",
+  "description": "Screenshot Extraction",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NIL"
+  },
+  "keywords": [
+    "NIL"
+  ],
+  "author": "Ali Shair",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.6.5",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
